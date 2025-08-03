@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #160902;
+    background-color: #010707;
     color: #fff;
     font-size: 16px;
     
@@ -757,3 +757,4 @@ nav ul {
         grid-column: 1 / -1;
     }
 }
+
