@@ -4,9 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
-section {
-    background-color: #010707 !important;
-}
+
 
 body {
     background-color: #010707;
@@ -49,7 +47,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #160902;
+    background-color: #010707;
     position: sticky;  /* Makes the nav bar sticky */
     top: 0;            /* Sticks the navbar to the top of the page */
     z-index: 1000;     /* Ensures the nav bar stays above other content */
@@ -196,7 +194,7 @@ p {
 
 
         .service {
-            background-color:  #160902; /* Light background color */
+            background-color:  #010707; /* Light background color */
             padding: 50px 20px; /* Padding around the section */
             text-align: center; /* Center-align text */
         }
@@ -242,7 +240,7 @@ p {
 
 
         .portfolio {
-            background-color: #160902; /* Light background color */
+            background-color: #010707; /* Light background color */
             padding: 50px 20px; /* Padding around the section */
             text-align: center; /* Center-align text */
         }
@@ -317,7 +315,7 @@ p {
     padding: 10px;
     max-width: 800px;
     margin: 50px auto;
-    background-color: #160902;
+    background-color: #010707;
     border-radius: 8px;
 }
 
@@ -392,7 +390,7 @@ button:hover {
         
         .faq {
             padding: 50px 20px;
-            background-color: #160902; /* Background color for the FAQ section */
+            background-color: #010707; /* Background color for the FAQ section */
             color: white; /* Text color */
         }
         
@@ -439,7 +437,7 @@ button:hover {
 
         .location {
             grid-column: 2 / 3;
-            background-color: #160902; /* Optional background color */
+            background-color: #010707; /* Optional background color */
             padding: 20px;
             border-radius: 10px;
             top: 30px;
@@ -760,5 +758,6 @@ nav ul {
         grid-column: 1 / -1;
     }
 }
+
 
 
